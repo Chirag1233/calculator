@@ -1,3 +1,5 @@
+[![Build Status](https://chirag-dave.visualstudio.com/TestDevOpsLabs/_apis/build/status/Chirag1233.calculator?branchName=master)](https://chirag-dave.visualstudio.com/TestDevOpsLabs/_build/latest?definitionId=1&branchName=master)
+
 Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
